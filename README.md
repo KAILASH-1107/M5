@@ -170,16 +170,21 @@ Write a c program to read and display an array of any 6 integer elements using p
 
 ## ALGORITHM
 Step 1: Start the program.
+
 Step 2: Declare the following:
 •	Integer variable i for iteration.
 •	Integer variable n to store the number of elements.
 •	Integer array arr[10] to hold up to 10 elements.
 •	Integer pointer parr and initialize it to point to the array arr.
+
 Step 3: Read the value of n (number of elements) from the user.
+
 Step 4: Loop from i = 0 to i < n:
 •	Read an integer value and store it in the address parr + i using pointer arithmetic.
+
 Step 5: Loop from i = 0 to i < n:
 •	Print the element at *(parr + i) using pointer dereferencing.
+
 Step 6: End the program.
 
 ## PROGRAM
