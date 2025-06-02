@@ -157,6 +157,7 @@ int main() {
 
  ## OUTPUT
 
+![WhatsApp Image 2025-06-02 at 14 34 29_f482582f](https://github.com/user-attachments/assets/08753abb-0a00-47a1-8aba-7cddb4acfdd3)
 
 
 ## RESULT
