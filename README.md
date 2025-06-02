@@ -147,7 +147,7 @@ int main() {
             printf(" ");
         }
         for (int j = 0; j <= i; j++) {
-            printf("%s ", str);
+            printf("%c ", str[j]);
         }
         printf("\n");
     }
@@ -156,7 +156,8 @@ int main() {
 ```
 
  ## OUTPUT
-![image](https://github.com/user-attachments/assets/fd8f9c5c-a0ee-4b7c-a08c-65cf75868371)
+
+
 
 ## RESULT
 Thus the C program to String process executed successfully
